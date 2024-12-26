@@ -1,0 +1,20 @@
+C:\Users\a707s\source\repos\Voting System\Voting System\bin\Debug\Voting System.exe.config
+C:\Users\a707s\source\repos\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\a707s\source\repos\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting System.csproj.AssemblyReference.cache
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Form1.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Registration.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Form3.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Form4.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Properties.Resources.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting System.csproj.GenerateResource.cache
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting System.csproj.CoreCompileInputs.cache
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting System.exe
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting System.pdb
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Vote.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Addcandidate.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Admincandidates.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Adminhome.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.AdminNav.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Adminvoters.resources
+C:\Users\a707s\source\repos\Voting System\Voting System\obj\Debug\Voting_System.Adminlogin.resources

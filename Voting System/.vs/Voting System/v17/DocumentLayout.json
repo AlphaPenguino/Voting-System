@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a707s\\source\\repos\\Voting System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\adminnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\adminnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\adminvoters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\adminvoters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\admincandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\admincandidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\addcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\addcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|c:\\users\\a707s\\source\\repos\\voting system\\voting system\\addcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\addcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|C:\\Users\\a707s\\source\\repos\\Voting System\\voting system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBE27852-F1E9-440D-9F99-8C5871CBBFD1}|Voting System\\Voting System.csproj|solutionrelative:voting system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Addcandidate.cs",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Addcandidate.cs",
+              "RelativeDocumentMoniker": "Voting System\\Addcandidate.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Addcandidate.cs",
+              "RelativeToolTip": "Voting System\\Addcandidate.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:17:34.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Addcandidate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Addcandidate.cs",
+              "RelativeDocumentMoniker": "Voting System\\Addcandidate.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Addcandidate.cs [Design]",
+              "RelativeToolTip": "Voting System\\Addcandidate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:14:06.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admincandidates.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Admincandidates.cs",
+              "RelativeDocumentMoniker": "Voting System\\Admincandidates.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Admincandidates.cs [Design]",
+              "RelativeToolTip": "Voting System\\Admincandidates.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:10:05.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adminvoters.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Adminvoters.cs",
+              "RelativeDocumentMoniker": "Voting System\\Adminvoters.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Adminvoters.cs [Design]",
+              "RelativeToolTip": "Voting System\\Adminvoters.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:06:29.565Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminNav.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\AdminNav.cs",
+              "RelativeDocumentMoniker": "Voting System\\AdminNav.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\AdminNav.cs [Design]",
+              "RelativeToolTip": "Voting System\\AdminNav.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T02:59:34.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adminhome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Adminhome.cs",
+              "RelativeDocumentMoniker": "Voting System\\Adminhome.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Adminhome.cs [Design]",
+              "RelativeToolTip": "Voting System\\Adminhome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T02:48:51.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adminlogin.cs",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Adminlogin.cs",
+              "RelativeDocumentMoniker": "Voting System\\Adminlogin.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Adminlogin.cs",
+              "RelativeToolTip": "Voting System\\Adminlogin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:21:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adminlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Adminlogin.cs",
+              "RelativeDocumentMoniker": "Voting System\\Adminlogin.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Adminlogin.cs [Design]",
+              "RelativeToolTip": "Voting System\\Adminlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T02:28:03.86Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form4.cs",
+              "RelativeDocumentMoniker": "Voting System\\Form4.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form4.cs",
+              "RelativeToolTip": "Voting System\\Form4.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:31:46.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form4.cs",
+              "RelativeDocumentMoniker": "Voting System\\Form4.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form4.cs [Design]",
+              "RelativeToolTip": "Voting System\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:30:58.584Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form3.cs",
+              "RelativeDocumentMoniker": "Voting System\\Form3.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form3.cs",
+              "RelativeToolTip": "Voting System\\Form3.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:22:47.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form3.cs",
+              "RelativeDocumentMoniker": "Voting System\\Form3.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form3.cs [Design]",
+              "RelativeToolTip": "Voting System\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:18:39.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form1.cs",
+              "RelativeDocumentMoniker": "Voting System\\Form1.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form1.cs",
+              "RelativeToolTip": "Voting System\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAArwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:56:03.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form1.cs",
+              "RelativeDocumentMoniker": "Voting System\\Form1.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Form1.cs [Design]",
+              "RelativeToolTip": "Voting System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:54:08.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Vote.cs",
+              "RelativeDocumentMoniker": "Voting System\\Vote.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Vote.cs",
+              "RelativeToolTip": "Voting System\\Vote.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:04:11.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vote.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Vote.cs",
+              "RelativeDocumentMoniker": "Voting System\\Vote.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Vote.cs [Design]",
+              "RelativeToolTip": "Voting System\\Vote.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:47:35.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Registration.cs",
+              "RelativeDocumentMoniker": "Voting System\\Registration.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Registration.cs",
+              "RelativeToolTip": "Voting System\\Registration.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAASwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:49:03.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Registration.cs",
+              "RelativeDocumentMoniker": "Voting System\\Registration.cs",
+              "ToolTip": "C:\\Users\\a707s\\source\\repos\\Voting System\\Voting System\\Registration.cs [Design]",
+              "RelativeToolTip": "Voting System\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:03:01.577Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
